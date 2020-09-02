@@ -9,3 +9,5 @@ Dritter Eintrag in mein Repositorium.
 => Hier beginnt der zweite Bearbeitungsvorgang.
 
 => Die Bearbeitung online.
+
+=> Neue Bearbeitung offline.
